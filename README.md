@@ -1,0 +1,1 @@
+# Cotton-Diseases-Prediction-App
